@@ -20,7 +20,7 @@ class ProfilePage extends StatelessWidget {
               child: Column(
                 children: [
                   Image.asset(
-                    'assets/login_bg.png',
+                    'assets/profile_bg.png',
                     width: size.width * 0.8,
                     fit: BoxFit.contain,
                   ),

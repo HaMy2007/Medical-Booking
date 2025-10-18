@@ -58,6 +58,7 @@ flutter:
     - assets/news.png
     - assets/login_illustration.png
     - assets/login_bg.png
+    - assets/profile_bg.png
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.

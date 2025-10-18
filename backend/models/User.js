@@ -12,7 +12,6 @@ const UserSchema = new Schema(
         },
         gender: { type: String, enum: ['Nam', 'Nữ', 'Khác'], required: true },
         phone_number: { type: String, required: true },
-        parent_number: { type: String },
         address: { type: String },
         date_of_birth: { type: Date, required: true },
         password_hash: { type: String, }
